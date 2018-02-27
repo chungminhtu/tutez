@@ -6,3 +6,6 @@ cd public
 git add .
 git commit -m "%mydate%_%mytime%"
 git push origin master
+
+
+#hugo -b="/tutez/" && cd public && AutoDeployToGit.bat && cd ..
