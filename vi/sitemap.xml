@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/tutez/vi/cs/cont/pages/</loc>
+    <loc>/tutez/cs/cont/pages/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -13,12 +13,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/cs/cont/pages/"
+                href="/tutez/cs/cont/pages/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/blog/</loc>
+    <loc>/tutez/blog/</loc>
     <lastmod>2018-01-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -28,12 +28,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/blog/"
+                href="/tutez/blog/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/cs/</loc>
+    <loc>/tutez/cs/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,12 +42,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/cs/"
+                href="/tutez/cs/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/cs/basics/</loc>
+    <loc>/tutez/cs/basics/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -56,12 +56,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/cs/basics/"
+                href="/tutez/cs/basics/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/java/</loc>
+    <loc>/tutez/java/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -70,12 +70,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/java/"
+                href="/tutez/java/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/cs/cont/archetypes/</loc>
+    <loc>/tutez/cs/cont/archetypes/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -84,12 +84,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/cs/cont/archetypes/"
+                href="/tutez/cs/cont/archetypes/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/cs/cont/</loc>
+    <loc>/tutez/cs/cont/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -99,12 +99,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/cs/cont/"
+                href="/tutez/cs/cont/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/cs/basics/requirements/</loc>
+    <loc>/tutez/cs/basics/requirements/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -113,12 +113,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/cs/basics/requirements/"
+                href="/tutez/cs/basics/requirements/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/cs/cont/markdown/</loc>
+    <loc>/tutez/cs/cont/markdown/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -128,12 +128,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/cs/cont/markdown/"
+                href="/tutez/cs/cont/markdown/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/cs/basics/installation/</loc>
+    <loc>/tutez/cs/basics/installation/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -142,12 +142,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/cs/basics/installation/"
+                href="/tutez/cs/basics/installation/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/cs/basics/configuration/</loc>
+    <loc>/tutez/cs/basics/configuration/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -157,12 +157,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/cs/basics/configuration/"
+                href="/tutez/cs/basics/configuration/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/cs/basics/style-customization/</loc>
+    <loc>/tutez/cs/basics/style-customization/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -172,12 +172,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/cs/basics/style-customization/"
+                href="/tutez/cs/basics/style-customization/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/cs/cont/menushortcuts/</loc>
+    <loc>/tutez/cs/cont/menushortcuts/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -187,12 +187,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/cs/cont/menushortcuts/"
+                href="/tutez/cs/cont/menushortcuts/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/cs/cont/i18n/</loc>
+    <loc>/tutez/cs/cont/i18n/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -202,12 +202,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/cs/cont/i18n/"
+                href="/tutez/cs/cont/i18n/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/blog/2018/01/04/notepad-tricks/</loc>
+    <loc>/tutez/blog/2018/01/04/notepad-tricks/</loc>
     <lastmod>2018-01-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -217,12 +217,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/blog/2018/01/04/notepad-tricks/"
+                href="/tutez/blog/2018/01/04/notepad-tricks/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/java/shortcodes/children/test/</loc>
+    <loc>/tutez/java/shortcodes/children/test/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -231,12 +231,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/java/shortcodes/children/test/"
+                href="/tutez/java/shortcodes/children/test/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/shortcodes/children/test/</loc>
+    <loc>/tutez/shortcodes/children/test/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -245,12 +245,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/shortcodes/children/test/"
+                href="/tutez/shortcodes/children/test/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/java/shortcodes/attachments/</loc>
+    <loc>/tutez/java/shortcodes/attachments/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -259,12 +259,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/java/shortcodes/attachments/"
+                href="/tutez/java/shortcodes/attachments/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/shortcodes/attachments/</loc>
+    <loc>/tutez/shortcodes/attachments/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -273,12 +273,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/shortcodes/attachments/"
+                href="/tutez/shortcodes/attachments/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/java/shortcodes/button/</loc>
+    <loc>/tutez/java/shortcodes/button/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -287,12 +287,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/java/shortcodes/button/"
+                href="/tutez/java/shortcodes/button/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/shortcodes/button/</loc>
+    <loc>/tutez/shortcodes/button/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -301,12 +301,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/shortcodes/button/"
+                href="/tutez/shortcodes/button/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/categories/</loc>
+    <loc>/tutez/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -316,12 +316,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/categories/"
+                href="/tutez/categories/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/java/shortcodes/children/</loc>
+    <loc>/tutez/java/shortcodes/children/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -330,12 +330,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/java/shortcodes/children/"
+                href="/tutez/java/shortcodes/children/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/shortcodes/children/</loc>
+    <loc>/tutez/shortcodes/children/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -344,16 +344,16 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/shortcodes/children/"
+                href="/tutez/shortcodes/children/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/contact/</loc>
+    <loc>/tutez/contact/</loc>
   </url>
   
   <url>
-    <loc>/tutez/vi/credits/</loc>
+    <loc>/tutez/credits/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -362,12 +362,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/credits/"
+                href="/tutez/credits/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/tuttype/cs/</loc>
+    <loc>/tutez/tuttype/cs/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -377,12 +377,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/tuttype/cs/"
+                href="/tutez/tuttype/cs/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/java/shortcodes/expand/</loc>
+    <loc>/tutez/java/shortcodes/expand/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -391,12 +391,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/java/shortcodes/expand/"
+                href="/tutez/java/shortcodes/expand/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/shortcodes/expand/</loc>
+    <loc>/tutez/shortcodes/expand/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -405,16 +405,16 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/shortcodes/expand/"
+                href="/tutez/shortcodes/expand/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/faq/</loc>
+    <loc>/tutez/faq/</loc>
   </url>
   
   <url>
-    <loc>/tutez/vi/tuttype/java/</loc>
+    <loc>/tutez/tuttype/java/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -424,12 +424,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/tuttype/java/"
+                href="/tutez/tuttype/java/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/java/shortcodes/mermaid/</loc>
+    <loc>/tutez/java/shortcodes/mermaid/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -438,12 +438,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/java/shortcodes/mermaid/"
+                href="/tutez/java/shortcodes/mermaid/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/shortcodes/mermaid/</loc>
+    <loc>/tutez/shortcodes/mermaid/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -452,12 +452,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/shortcodes/mermaid/"
+                href="/tutez/shortcodes/mermaid/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/java/shortcodes/notice/</loc>
+    <loc>/tutez/java/shortcodes/notice/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -466,12 +466,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/java/shortcodes/notice/"
+                href="/tutez/java/shortcodes/notice/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/shortcodes/notice/</loc>
+    <loc>/tutez/shortcodes/notice/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -480,12 +480,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/shortcodes/notice/"
+                href="/tutez/shortcodes/notice/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/shortcodes/</loc>
+    <loc>/tutez/shortcodes/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -495,12 +495,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/shortcodes/"
+                href="/tutez/shortcodes/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/java/shortcodes/</loc>
+    <loc>/tutez/java/shortcodes/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -510,12 +510,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/java/shortcodes/"
+                href="/tutez/java/shortcodes/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/blog/1/01/01/siteparam/</loc>
+    <loc>/tutez/blog/1/01/01/siteparam/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -524,12 +524,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/blog/1/01/01/siteparam/"
+                href="/tutez/blog/1/01/01/siteparam/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/java/shortcodes/siteparam/</loc>
+    <loc>/tutez/java/shortcodes/siteparam/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -538,12 +538,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/java/shortcodes/siteparam/"
+                href="/tutez/java/shortcodes/siteparam/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/tags/</loc>
+    <loc>/tutez/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -553,12 +553,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/tags/"
+                href="/tutez/tags/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/tags/tool/</loc>
+    <loc>/tutez/tags/tool/</loc>
     <lastmod>2018-01-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
@@ -569,12 +569,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/tags/tool/"
+                href="/tutez/tags/tool/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/categories/tools/</loc>
+    <loc>/tutez/categories/tools/</loc>
     <lastmod>2018-01-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
@@ -585,12 +585,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/categories/tools/"
+                href="/tutez/categories/tools/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/</loc>
+    <loc>/tutez/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
@@ -601,12 +601,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/"
+                href="/tutez/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/tags/trick/</loc>
+    <loc>/tutez/tags/trick/</loc>
     <lastmod>2018-01-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
@@ -617,12 +617,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/tags/trick/"
+                href="/tutez/tags/trick/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/tuttype/</loc>
+    <loc>/tutez/tuttype/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -632,12 +632,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/tuttype/"
+                href="/tutez/tuttype/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/vitrine/</loc>
+    <loc>/tutez/vitrine/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -646,12 +646,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/vitrine/"
+                href="/tutez/vitrine/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/java/shortcodes/children/children-1/</loc>
+    <loc>/tutez/java/shortcodes/children/children-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -660,12 +660,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/java/shortcodes/children/children-1/"
+                href="/tutez/java/shortcodes/children/children-1/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/shortcodes/children/children-1/</loc>
+    <loc>/tutez/shortcodes/children/children-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -674,12 +674,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/shortcodes/children/children-1/"
+                href="/tutez/shortcodes/children/children-1/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/java/shortcodes/children/children-1/children-1-1/</loc>
+    <loc>/tutez/java/shortcodes/children/children-1/children-1-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -688,12 +688,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/java/shortcodes/children/children-1/children-1-1/"
+                href="/tutez/java/shortcodes/children/children-1/children-1-1/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/shortcodes/children/children-1/children-1-1/</loc>
+    <loc>/tutez/shortcodes/children/children-1/children-1-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -702,12 +702,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/shortcodes/children/children-1/children-1-1/"
+                href="/tutez/shortcodes/children/children-1/children-1-1/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/java/shortcodes/children/children-1/children-1-1/children-1-1-1/</loc>
+    <loc>/tutez/java/shortcodes/children/children-1/children-1-1/children-1-1-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -716,12 +716,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/java/shortcodes/children/children-1/children-1-1/children-1-1-1/"
+                href="/tutez/java/shortcodes/children/children-1/children-1-1/children-1-1-1/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/shortcodes/children/children-1/children-1-1/children-1-1-1/</loc>
+    <loc>/tutez/shortcodes/children/children-1/children-1-1/children-1-1-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -730,12 +730,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/shortcodes/children/children-1/children-1-1/children-1-1-1/"
+                href="/tutez/shortcodes/children/children-1/children-1-1/children-1-1-1/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/java/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/</loc>
+    <loc>/tutez/java/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -744,12 +744,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/java/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/"
+                href="/tutez/java/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/</loc>
+    <loc>/tutez/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -758,12 +758,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/"
+                href="/tutez/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/java/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/</loc>
+    <loc>/tutez/java/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -772,12 +772,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/java/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/"
+                href="/tutez/java/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/</loc>
+    <loc>/tutez/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -786,12 +786,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/"
+                href="/tutez/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/java/shortcodes/children/children-2/</loc>
+    <loc>/tutez/java/shortcodes/children/children-2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -800,12 +800,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/java/shortcodes/children/children-2/"
+                href="/tutez/java/shortcodes/children/children-2/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/shortcodes/children/children-2/</loc>
+    <loc>/tutez/shortcodes/children/children-2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -814,12 +814,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/shortcodes/children/children-2/"
+                href="/tutez/shortcodes/children/children-2/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/java/shortcodes/children/children-3/</loc>
+    <loc>/tutez/java/shortcodes/children/children-3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -828,12 +828,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/java/shortcodes/children/children-3/"
+                href="/tutez/java/shortcodes/children/children-3/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/shortcodes/children/children-3/</loc>
+    <loc>/tutez/shortcodes/children/children-3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -842,12 +842,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/shortcodes/children/children-3/"
+                href="/tutez/shortcodes/children/children-3/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/java/shortcodes/children/children-4/</loc>
+    <loc>/tutez/java/shortcodes/children/children-4/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -856,12 +856,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/java/shortcodes/children/children-4/"
+                href="/tutez/java/shortcodes/children/children-4/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/shortcodes/children/children-4/</loc>
+    <loc>/tutez/shortcodes/children/children-4/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -870,12 +870,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/shortcodes/children/children-4/"
+                href="/tutez/shortcodes/children/children-4/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/java/shortcodes/children/children-2/test3/</loc>
+    <loc>/tutez/java/shortcodes/children/children-2/test3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -884,12 +884,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/java/shortcodes/children/children-2/test3/"
+                href="/tutez/java/shortcodes/children/children-2/test3/"
                 />
   </url>
   
   <url>
-    <loc>/tutez/vi/shortcodes/children/children-2/test3/</loc>
+    <loc>/tutez/shortcodes/children/children-2/test3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -898,7 +898,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/tutez/vi/shortcodes/children/children-2/test3/"
+                href="/tutez/shortcodes/children/children-2/test3/"
                 />
   </url>
   
